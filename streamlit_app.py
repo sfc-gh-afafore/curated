@@ -13,7 +13,7 @@ colored_header(
     color_name="blue-70",
 )
 
-st.info("**An open source project that focuses on curating awesome resources for learning awesome skills.**")
+st.info("**An open source project that focuses on curating awesome resources for learning awesome skills. This is a test.**")
 st.text("\n")
 
 goto_page("Get started with Python 🐍", "Python 101")
